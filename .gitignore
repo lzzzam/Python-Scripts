@@ -5,3 +5,8 @@ Tutorial/Various/__pycache__/test_Logging.cpython-39.pyc
 Tutorial/Various/__init__.py
 Tutorial/Various/mylog.log
 Tutorial/Various/test_Logging.py
+Projects/__pycache__/comm.cpython-37.pyc
+Projects/__pycache__/comm.cpython-39.pyc
+Projects/__pycache__/graphics.cpython-39.pyc
+Projects/__pycache__/serial_monitor.cpython-39.pyc
+Projects/__pycache__/threads.cpython-39.pyc
